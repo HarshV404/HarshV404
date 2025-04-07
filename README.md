@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm  **Harsh Vishwakarma** 👋
 
-<!--
-**HarshV404/HarshV404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **Rajiv Gandhi Institute of Technology**, currently pursuing a Bachelor's degree in **Information Technology**. With a strong interest in computer programming and technology, I aim to leverage my skills to contribute to the tech community and build impactful applications.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools:
+- **Programming Languages**: Java, Python, JavaScript, C
+- **Database Management Systems**: MySQL, MongoDB, PostgreSQL
+- **Tech Stacks**: MERN, Flutter, Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about software development and aspire to bring my ideas to life by creating real-world applications. I am particularly excited about exploring the **MERN stack**, building mobile apps with **Flutter**, and developing backend solutions using **Flask**.
+
+## 🚀 Goals:
+- To expand my knowledge in **full-stack development** and continue working on **open-source projects**.
+- To explore cutting-edge technologies and incorporate them into real-world applications.
+- To contribute to the growth of the technology field by learning, collaborating, and creating.
+
+## 📢 Let's Connect!
+I'm always looking for opportunities to collaborate with like-minded people. Feel free to reach out to me for potential projects, discussions, or learning opportunities!
+
+- [LinkedIn](www.linkedin.com/in/harsh-vishwakarma-✍️-236950243)
+
+Thanks for visiting my GitHub profile! 🚀
+
+
+
