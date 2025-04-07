@@ -2,12 +2,22 @@
 
 I'm a student at **Rajiv Gandhi Institute of Technology**, currently pursuing a Bachelor's degree in **Information Technology**. With a strong interest in computer programming and technology, I aim to leverage my skills to contribute to the tech community and build impactful applications.
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshV404&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 📝 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshV404&layout=compact&theme=radical)
+
 ## 🔧 Technologies & Tools:
 - **Programming Languages**: Java, Python, JavaScript, C
 - **Database Management Systems**: MySQL, MongoDB, PostgreSQL
 - **Tech Stacks**: MERN, Flutter, Flask
 
-I am passionate about software development and aspire to bring my ideas to life by creating real-world applications. I am particularly excited about exploring the **MERN stack**, building mobile apps with **Flutter**, and developing backend solutions using **Flask**.
+- ## 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshV404&theme=radical)
 
 ## 🚀 Goals:
 - To expand my knowledge in **full-stack development** and continue working on **open-source projects**.
